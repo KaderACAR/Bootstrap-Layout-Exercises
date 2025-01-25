@@ -4,78 +4,78 @@
     font-weight: 600;
 }
 
-.div-orta{
+.avatar-container{
     background-color: #1bbc9b;
     padding-top: 5rem;
     padding-bottom: 5rem;
 }
-.orta-yazi{
+.start-text{
     font-size: 3.5rem;
     font-weight: 400;
 }
 
-.yazi{
+.avatar-container p{
     font-size: 1.5rem;
 }
+ 
 .portfolio-1{
     padding-top: 5rem;
     padding-bottom: 3rem;
     font-size: 3rem;
-
 }
 
-.ortak-foto{
+.portfolio-img{
     padding-bottom: 2.5rem;
-    
 }
 .about-sir{
     background-color: #1bbc9b;
     padding-top: 2rem;
     padding-bottom: 5rem;
+    margin-top: 1.5rem;
 }
-.text-1{
+.about-sir p{
     font-size: 1.25rem;
     text-align: left;
+    padding: 1rem;
 }
-.buttonn{
+.about-sir h2{
+    font-size: 40px;
+    border-bottom: 1px solid #ffffff;
+    display: inline-flex;
+    padding-bottom: 0.3rem;
+}
+.about-btn{
     background-color:#1bbc9b;
     color: #ffffff;
     padding: 1rem 1.75rem;
     border: 2px solid #ffffff;
     font-size: 20px;
 }
-.buttonn:hover{
+.about-btn:hover{
     background-color: #ffffff ;
     color: black;
 }
-.footer-or{
+.footer{
     background-color: #2d3e50;
     padding-top: 4rem;
     padding-bottom: 5rem;
     color: #ffffff;
     font-size: 1.5rem;
 }
-.john{
-    font-size: 1.25rem;
-}
-.aro-web{
-    font-size: 1.5rem;
-    color: #ffffff;
-}
-.metin{
-    font-size: 1.25rem;
-}
-.free{
-    font-size: 1.25rem;
-}
-.abo-free{
+.footer p{
     font-size: 1.5rem;
 }
-.liko{
+.footer h3{
+    font-size: 1.5rem;
+    border-bottom: 1px solid #ffffff;
+    display: inline-flex;
+    padding-bottom: 0.3rem;
+}
+.footer-link{
     color: #1bbc9b;
 }
 
-.liko:hover{
+.footer-link:hover{
     color: #1f7c6a;
 }
 .copy{
